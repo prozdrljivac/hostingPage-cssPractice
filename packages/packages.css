@@ -55,6 +55,8 @@ main {
   border: 1px solid #0e4f1f;
   color: #0e4f1f;
   background: white;
+  font-family: Roboto;
+  font-weight: 900;
 }
 
 .clearfix {
